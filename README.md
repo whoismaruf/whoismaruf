@@ -8,7 +8,7 @@
 <p align="center"> <a href="https://twitter.com/whoismaruf" target="blank"><img src="https://img.shields.io/twitter/follow/whoismaruf?logo=twitter&style=for-the-badge" alt="whoismaruf" /></a> </p>
 <br>
 
-- 🔭 I’m currently working on [Zlog](https://github.com/whoismaruf/zlog)
+- 🔭 I’m currently working on [Zlog](https://github.com/users/whoismaruf/projects/1)
 
 - 🌱 I’m currently learning **Full-stack Web Development (MEAN)**
 
@@ -20,7 +20,7 @@
 
 - 📝 I regularly write articles on [https://marufkhan.info/blogs](https://marufkhan.info/blogs)
 
-- 💬 Ask me about **python, javascript, django, flask, rest-api, react, nextjs, postgres**
+- 💬 Ask me about **Python, JavaScript, Django, Flask, Rest-API, React, Nextjs, Postgres, Docker, Azure, Serverless**
 
 - 📫 How to reach me **hellomarufkhan@gmail.com**
 
