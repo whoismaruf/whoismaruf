@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Maruf Khan</h1>
 <h3 align="center">A passionate programmer and developer from Bangladesh.</h3>
 <br>
-<p align="center"> <a href="https://marufkhan.info/awards"><img src="https://github-profile-trophy.vercel.app/?username=whoismaruf" alt="whoismaruf" /></a> </p>
+<p align="center"> <a href="https://withmaruf.com/awards"><img src="https://github-profile-trophy.vercel.app/?username=whoismaruf" alt="whoismaruf" /></a> </p>
 <br>
 <p align="center"> <a href="https://twitter.com/whoismaruf" target="blank"><img src="https://img.shields.io/twitter/follow/whoismaruf?logo=twitter&style=for-the-badge" alt="whoismaruf" /></a> </p>
 <br>
@@ -16,15 +16,15 @@
 
 - 🤝 I’m looking for help with [Open-source Contributions](https://github.com/whoismaruf)
 
-- 👨‍💻 All of my projects are available at [https://marufkhan.info/projects](https://marufkhan.info/projects)
+- 👨‍💻 All of my projects are available at [https:/withmaruf.como/projects](https://withmaruf.com/projects)
 
-- 📝 I regularly write articles on [https://marufkhan.info/blogs](https://marufkhan.info/blogs)
+- 📝 I regularly write articles on [https://withmaruf.com/blogs](https://withmaruf.com/blogs)
 
 - 💬 Ask me about **Python, JavaScript, Django, Flask, Rest-API, React, Nextjs, Postgres, Docker, Azure, Serverless**
 
 - 📫 How to reach me **hellomarufkhan@gmail.com**
 
-- 📄 Know about my experiences [https://marufkhan.info/resume](https://marufkhan.info/resume)
+- 📄 Know about my experiences [https://withmaruf.com/resume](https://withmaruf.com/resume)
 
 - ⚡ Fun fact **I hate coffee 😅**
 <br>
