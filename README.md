@@ -11,14 +11,12 @@ Khulna University, Khulna, Bangladesh
     </a>
 </div>
 
-* Machine Learning, Deep Learning with Computer Vision, Reinforcement learning.(TensorFlow & PyTorch)
-* Web Development (Full Stack, MERN/MEAN)
-* DevOps Engineering(With Azure, Docker, Kubernates etc.)
+* Web Development (Full Stack, Django/MERN)
+* Data Analysis, Statistical Modeling (Python, R)
+* Machine Learning, Deep Learning with Computer Vision (TensorFlow & PyTorch)
+* DevOps Engineering (With Azure, Docker, Heroku etc.)
 * Data Structures and Algorithms
-* Native Android Development
-* Desktop GUI development
-* Game Development
-* Programming Languages: C++, C, Python, JavaScript, Java.
+* Programming Languages: Python, JavaScript, C++, R.
 * Version Control System, Git & GitHub
 
 ## Tools and Technologies
@@ -28,12 +26,6 @@ Khulna University, Khulna, Bangladesh
  </a>
  
 <p align="left">
-    <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
-            src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"
-            alt="android studio" width="40" height="40" /> </a>
-    <a href="https://angular.io/" target="_blank" title ="Angular"> <img
-            src="https://brandslogos.com/wp-content/uploads/thumbs/angular-logo-vector.svg"
-            alt="angular" width="40" height="40" /> </a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank" title ="Azure"> <img
             src="https://pngimage.net/wp-content/uploads/2018/05/azure-logo-png-8.png"
             alt="azure" width="50" height="35" /> </a>
