@@ -3,7 +3,7 @@ Final year, B.Sc Statistics
 Khulna University, Khulna, Bangladesh                                       
 [E-mail](mailto:hellomarufkhan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/whoismaruf/) | [Facebook](https://www.facebook.com/whoizmaruf/) | [Instagram](https://www.instagram.com/whoizmaruf/) | [Twitter](https://twitter.com/whoismaruf) | [YouTube](https://www.youtube.com/channel/UCzE0B526P4VhuKohtjYO9kQ) | [GitHub](https://github.com/whoismaruf)
 
-[Schedule a meet with me 🤝](https://join.skype.com/invite/DJoRO39fF0cm)
+[📌 Schedule a meeting!](https://join.skype.com/invite/DJoRO39fF0cm)
 ## Skills
 <div align=right>
     <a href="https://github.com/anuraghazra/github-readme-stats">
