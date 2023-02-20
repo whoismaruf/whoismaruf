@@ -4,6 +4,7 @@ Khulna University, Khulna, Bangladesh
 [E-mail](mailto:hellomarufkhan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/whoismaruf/) | [Facebook](https://www.facebook.com/whoizmaruf/) | [Instagram](https://www.instagram.com/whoizmaruf/) | [Twitter](https://twitter.com/whoismaruf) | [YouTube](https://www.youtube.com/channel/UCzE0B526P4VhuKohtjYO9kQ) | [GitHub](https://github.com/whoismaruf)
 
 [📌 Schedule a meeting!](https://join.skype.com/invite/DJoRO39fF0cm)
+
 ## Skills
 <div align=right>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -29,8 +30,9 @@ Khulna University, Khulna, Bangladesh
 
 <hr />
 
-<div align=center>
+<!-- <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=whoismaruf&theme=onedark&column=9" alt="zumrudu-anka" />
     </a>
-</div>
+</div> -->
+[![An image of @whoismaruf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/whoismaruf)](https://holopin.io/@whoismaruf)
