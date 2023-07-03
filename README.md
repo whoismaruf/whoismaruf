@@ -8,7 +8,7 @@ Khulna University, Khulna, Bangladesh
 ## Skills
 <div align=right>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoismaruf&theme=highcontrast&langs_count=10&layout=compact" />
+      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoismaruf&theme=gotham&langs_count=10&layout=compact" />
     </a>
 </div>
 
