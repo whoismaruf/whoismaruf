@@ -1,6 +1,6 @@
 # Maruf Khan 🐱‍💻                                                                
-Graduate, B.Sc Statistics                                                    
-Khulna University, Khulna, Bangladesh                                       
+Technical Officer, Developer & Speaker                                                   
+Working on Web Applications, Cloud-based Microservices/SaaS Products, AI-powered Solutions                                       
 [E-mail](mailto:collab@withmaruf.com) | [LinkedIn](https://www.linkedin.com/in/whoismaruf/) | [Facebook](https://www.facebook.com/whoizmaruf/) | [Instagram](https://www.instagram.com/whoizmaruf/) | [Twitter](https://twitter.com/whoismaruf) | [YouTube](https://www.youtube.com/channel/UCzE0B526P4VhuKohtjYO9kQ) | [GitHub](https://github.com/whoismaruf)
 
 [📌 Schedule a meeting!](https://join.skype.com/invite/DJoRO39fF0cm)
