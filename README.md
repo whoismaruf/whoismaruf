@@ -17,7 +17,7 @@ Building Web Apps, Microservices/SaaS & AI-powered Solutions
 * Cloud-based Microservices (Celery, RabbitMQ)
 * Machine Learning, AI-Powered Solutions (ChatGPT, Langchain)
 * Data Structures and Algorithms
-* Programming Languages: Python, JavaScript, C++, R.
+* Programming Languages: Python, JavaScript, C++, RUST.
 * Version Control System, Git & GitHub
 
 ## Awards 🎖️
