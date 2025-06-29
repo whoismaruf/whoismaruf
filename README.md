@@ -14,6 +14,7 @@ Driven to Build Impactful SaaS, Smart Systems & Seamless Experiences
 
 * Tech Leadership & Strategy – Driving innovation, product architecture, and cross-functional alignment in fast-paced tech environments.
 * Full-Stack & Cloud Development – Building scalable SaaS platforms using Django, MERN, Docker, and cloud-native infrastructure.
+* DevOps Expertise – Deploying scalable systems with Docker, CI/CD, and platforms like Azure and Heroku for seamless delivery.
 * AI Integration & Automation – Designing intelligent workflows with tools like ChatGPT, LangChain, and n8n for smarter systems.
 * Community & Collaboration – Championing open-source, team mentorship, and purpose-driven tech initiatives with real-world impact.
 
